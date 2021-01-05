@@ -1,10 +1,8 @@
-# Welcome to my repo
+# Welcome 
 
 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mauroavellaneda&layout=compact">
 
-### :e-mail: Social:
-
-[<img align="left" alt="mauro | LinkedIn" width="50px" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png" />](https://www.linkedin.com/in/mauro-emiliano-avellaneda-b9539a18a/)
 
 
 <br/> <br/>
@@ -12,7 +10,7 @@
 
 
 
-### :computer: My stack:
+### :computer: Stack:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby)
@@ -38,7 +36,7 @@
 ![Pivotal Tracker](https://img.shields.io/badge/-Pivotal%20Tracker-430098?style=flat-square&logo=pivotal-tracker)
 
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mauroavellaneda&layout=compact">
+
 
 
  
